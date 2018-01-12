@@ -3,17 +3,25 @@
     <h1>iExpr-CLI</h1>
 </div>
 
-![](https://img.shields.io/badge/framework-.netstandard2.0-blue.svg)
-![](http://progressed.io/bar/0?title=done)
+![](https://img.shields.io/badge/framework-.netcore2.0-blue.svg)
+![](http://progressed.io/bar/20?title=done)
+![](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-[x]: ![](https://img.shields.io/badge/build-passing-brightgreen.svg)
 [x]: [![](https://img.shields.io/badge/nuget-v0.3-brightgreen.svg)](https://www.nuget.org/packages/iExpr.Core/0.3.0)
 
 + Author: Stardust D.L.
++ Version: v1.0.0
 
-The cli for iExpr. It's a tool to debug the libraries of iExpr and it can also deal with expressions.
+The command line tool for iExpr. It's a tool to debug the libraries of iExpr and it can also deal with expressions.  
+Now it recieve a legal math expression and return its value.  
+This is also an example for iExpr.
 
-> When **iExpr.Core** is finished, this project will start.
+> This project is in progress.
+
+# Dependencies
+
++ iExpr.Core ![](https://img.shields.io/badge/version-0.5.1-blue.svg)
++ iExpr.Exprs.Math ![](https://img.shields.io/badge/version-0.4.0-blue.svg)
 
 # Links
 
