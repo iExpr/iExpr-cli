@@ -13,15 +13,16 @@
 + Version: v1.0.0
 
 The command line tool for iExpr. It's a tool to debug the libraries of iExpr and it can also deal with expressions.  
-Now it recieve a legal math expression and return its value.  
 This is also an example for iExpr.
 
 > This project is in progress.
 
+# Usage
+
 # Dependencies
 
-+ iExpr.Core ![](https://img.shields.io/badge/version-0.5.1-blue.svg)
-+ iExpr.Exprs.Math ![](https://img.shields.io/badge/version-0.4.0-blue.svg)
++ iExpr.Core ![](https://img.shields.io/badge/version-0.5.2-blue.svg)
++ iExpr.Exprs.Program ![](https://img.shields.io/badge/version-0.5.1-blue.svg)
 
 # Links
 

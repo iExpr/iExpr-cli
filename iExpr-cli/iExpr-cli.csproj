@@ -4,10 +4,11 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <SignAssembly>false</SignAssembly>
+    <AssemblyName>iexpr-cli</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="iExpr.Exprs.Math" Version="0.4.0" />
+    <PackageReference Include="iExpr.Exprs.Program" Version="0.5.0.2" />
   </ItemGroup>
 
 </Project>
